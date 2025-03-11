@@ -1,0 +1,24 @@
+# Ignore Visual Studio files
+Microsoft/VisualStudio Services/
+
+# Ignore configstore directories
+configstore/
+
+# Ignore GitHub Copilot files
+github-copilot/
+
+# Ignore menus configurations
+menus/
+
+# Ignore build files (xbuild is typically related to .NET projects)
+xbuild/
+
+# Ignore fish shell config files
+fish/
+
+# Ignore htop config files
+htop/
+
+# Ignore PureRef configuration files
+PureRef.ini
+
