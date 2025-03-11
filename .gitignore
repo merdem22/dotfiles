@@ -1,6 +1,3 @@
-# Ignore Visual Studio files
-Microsoft/VisualStudio Services/
-
 # Ignore configstore directories
 configstore/
 
