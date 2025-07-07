@@ -9,12 +9,12 @@ config = {
 	window_decorations = "RESIZE", --disable the title bar but enable the resizable border
 	default_cursor_style = "BlinkingBar",
 	color_scheme = "Nord (Gogh)",
-	font = wezterm.font("JetBrains Mono", { weight = "Bold"}),
+	font = wezterm.font("JetBrains Mono", { weight = "Bold" }),
 	font_size = 12.5,
 	background = {
 		{
 			source = {
-				File = "/Users/merterdem/Images/SequoiaDark.png"
+				File = "/Users/merterdem/Images/dark.jpg",
 			},
 			hsb = {
 				hue = 1.0,
